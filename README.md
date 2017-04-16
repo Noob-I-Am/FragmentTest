@@ -26,10 +26,13 @@ Preference attributes
 
 
 ![](https://raw.githubusercontent.com/Noob-I-Am/FragmentTest/master/images/3.PNG)
+
 点击 Screen Perference跳转至另一个preferenceScreen
+
 ![](https://raw.githubusercontent.com/Noob-I-Am/FragmentTest/master/images/4.PNG)
 
 点击IntentPreference打开一个网页
+
 ![](https://raw.githubusercontent.com/Noob-I-Am/FragmentTest/master/images/5.PNG)
 
 设置项关联：父选项选中后子选项才可选择
