@@ -25,12 +25,12 @@ public class MainActivity extends AppCompatActivity {
         menu.add(0,menu_setting,1,"setting");
        return  super.onCreateOptionsMenu(menu);
     }
-    @Override
-    public boolean onOptionsItemSelected(MenuItem item)
-    {
-        super.onOptionsItemSelected(item);
-        Intent intent=new Intent(this,PrefFragment.class);
-        startActivity(intent);
-        return false;
-    }
+//     @Override
+//     public boolean onOptionsItemSelected(MenuItem item)
+//     {
+//         super.onOptionsItemSelected(item);
+//         Intent intent=new Intent(this,PrefFragment.class);
+//         startActivity(intent);
+//         return false;
+//     }
 }
